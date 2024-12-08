@@ -23,6 +23,8 @@
 
 ## 関連資料
 
+* [ディスクゴルフ公式規則の邦訳プロジェクト](https://github.com/jpdga-shizuoka/rules)
+* [ディスクゴルフ競技マニュアルの邦訳プロジェクト](https://github.com/jpdga-shizuoka/cm)
 * [公式規則(オンライン版)](https://jpdga-shizuoka.github.io/rules/)
 * [DG JAPAN - 資料室](https://jpdga-shizuoka.github.io/ssa-round-ratings/libraries/index)
 
