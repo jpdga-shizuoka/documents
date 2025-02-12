@@ -10,7 +10,9 @@
 
 ## 競技マニュアル
 
-* [ディスクゴルフ大会のための競技マニュアル 2025年版](cm/CompetitionManualForDiscGolfEvents-2025.pdf)
+PDGAが2025年1月20日付で更新した内容を反映しました。
+
+* [ディスクゴルフ大会のための競技マニュアル 2025年版(改訂1)](cm/CompetitionManualForDiscGolfEvents-2025-1.pdf)
 
 ## 過去の更新資料
 
