@@ -6,11 +6,13 @@
 
 ## 公式規則
 
-* [ディスクゴルフ公式規則 2025年版](ordg/OfficialRulesOfDiscGolf-2025.pdf)
+2025年1月16日付で更新された内容を反映しました。
+
+* [ディスクゴルフ公式規則 2025年版(改訂1)](ordg/OfficialRulesOfDiscGolf-2025.pdf)
 
 ## 競技マニュアル
 
-PDGAが2025年1月20日付で更新した内容を反映しました。
+2025年1月20日付で更新された内容を反映しました。
 
 * [ディスクゴルフ大会のための競技マニュアル 2025年版(改訂1)](cm/CompetitionManualForDiscGolfEvents-2025-1.pdf)
 
