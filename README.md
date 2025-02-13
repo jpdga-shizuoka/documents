@@ -8,7 +8,7 @@
 
 2025年1月16日付で更新された内容を反映しました。
 
-* [ディスクゴルフ公式規則 2025年版(改訂1)](ordg/OfficialRulesOfDiscGolf-2025.pdf)
+* [ディスクゴルフ公式規則 2025年版(改訂1)](ordg/OfficialRulesOfDiscGolf-2025-1.pdf)
 
 ## 競技マニュアル
 
