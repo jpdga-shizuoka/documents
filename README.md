@@ -20,6 +20,12 @@
 
 * [ディスクゴルフ公式規則と競技マニュアルの更新(2026年)](./2026/README.md)
 
+## その他
+
+### PDGA国際プログラムガイド
+
+* [PDGA国際戦略解剖：世界を席巻するディスクゴルフの多様な成長と未来予測(2026)](./international/README.md)
+
 ## 過去の更新資料
 
 * [2024年 公式規則、競技マニュアル、ツアー基準の更新](https://drive.google.com/file/d/1boR4HMhim6qYjtv6jsai1r2QLZv4tUoS/view)
