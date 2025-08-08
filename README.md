@@ -16,6 +16,10 @@
 
 * [ディスクゴルフ大会のための競技マニュアル 2025年版(改訂1)](cm/CompetitionManualForDiscGolfEvents-2025-1.pdf)
 
+## 2026年更新情報
+
+* [ディスクゴルフ公式規則と競技マニュアルの更新(2026年)](./2026/README.md)
+
 ## 過去の更新資料
 
 * [2024年 公式規則、競技マニュアル、ツアー基準の更新](https://drive.google.com/file/d/1boR4HMhim6qYjtv6jsai1r2QLZv4tUoS/view)
